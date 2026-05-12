@@ -6,7 +6,7 @@ Permite registrar usuarios y administrar recordatorios simples de medicación ut
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - React Native
 - Expo
@@ -17,23 +17,23 @@ Permite registrar usuarios y administrar recordatorios simples de medicación ut
 
 ---
 
-## 📱 Funcionalidades
+## Funcionalidades
 
-### 🔐 Autenticación
+### Autenticación
 - Registro de usuario
 - Login local
 - Validación simple de credenciales
 - Persistencia con AsyncStorage
 
-### 💊 Medicaciones
+### Medicaciones
 - Agregar medicaciones
 - Mostrar lista de medicaciones
 - Eliminar medicaciones
 - Persistencia local
 
-### 🔔 Notificaciones
+### Notificaciones
 - Recordatorios locales utilizando expo-notifications
-- Notificación automática luego de crear una medicación
+- Notificación automática luego de crear una medicación (luego de 10 segundos)
 
 ---
 
@@ -60,18 +60,17 @@ MedicationReminder/
 ├── App.tsx
 └── package.json
 
-## ⚙️ Requisitos
+## Requisitos
 
 Tener instalado:
 
 - Node.js
 - npm
-- Expo CLI
-- Android Studio (opcional para emulador)
+- Android Studio
 
 ---
 
-## 📥 Instalación
+## Instalación
 
 npx expo install expo-notifications
 npx expo install @react-native-async-storage/async-storage
