@@ -77,3 +77,8 @@ npx expo install @react-native-async-storage/async-storage
 npx expo install react-native-screens react-native-safe-area-context
 
 npx expo start
+
+```
+
+## 🎥 Video Demo
+Link: https://drive.google.com/file/d/1Xli1pQuvFpyK57s682GtKOUnkVr30VSi/view?usp=drive_link
