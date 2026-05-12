@@ -81,4 +81,4 @@ npx expo start
 ```
 
 ## 🎥 Video Demo
-Link: https://drive.google.com/file/d/1Xli1pQuvFpyK57s682GtKOUnkVr30VSi/view?usp=drive_link
+Link: https://drive.google.com/file/d/1Xli1pQuvFpyK57s682GtKOUnkVr30VSi/view?usp=sharing
